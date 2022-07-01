@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **agranipatel10@gmail.com**
 
+- 🌱 Awards and Recognition **WeTech Goldman Sachs Scholar 2021 and Cummins Scholar 2021**
+
 - 📄 Know about my experiences [http://lnkiy.in/here_is_my_Resume](http://lnkiy.in/here_is_my_Resume)
 
 - ⚡ Fun fact **I can cook food but not tasty food :(**
