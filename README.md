@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Agrani Patel <img align="right" src="https://github.com/agrani1010/images/blob/master/front-facing-baby-chick-emoji-by-google.png" alt="agrani1010" /> </h1>
+<h1 align="center">Hi 👋, I'm Agrani Patel <img height= "29" src="https://github.com/agrani1010/images/blob/master/front-facing-baby-chick-emoji-by-google.png" alt="agrani1010" /> </h1>
 <h3 align="center">A B.Tech grad who just stepped into the corporate world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrani1010&label=Profile%20views&color=0e75b6&style=flat" alt="agrani1010" /> </p>
