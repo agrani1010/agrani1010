@@ -1,6 +1,6 @@
+<img src="https://github.com/agrani1010/images/blob/master/WhatsApp%20Image%202022-07-02%20at%204.54.51%20PM.jpeg" width="1300" alt="agrani1010" />
 <h1 align="center">Hi 👋, I'm Agrani Patel <img height= "29" src="https://github.com/agrani1010/images/blob/master/front-facing-baby-chick-emoji-by-google.png" alt="agrani1010" /> </h1>
 <h3 align="center">A B.Tech grad who just stepped into the corporate world.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrani1010&label=Profile%20views&color=0e75b6&style=flat" alt="agrani1010" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Development**
@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I can cook food but not tasty food :(**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="background-color:pink;">
 <a href="https://linkedin.com/in/agrani-patel-1813aa172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agrani-patel-1813aa172" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/agrani_1010" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="agrani_1010" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ap1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ap1010" height="30" width="40" /></a>
