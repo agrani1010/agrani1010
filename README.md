@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrani1010&label=Profile%20views&color=0e75b6&style=flat" alt="agrani1010" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently working as a Software Engineer in Optum, UHG.
 
 - 🤝 I’m open for opportunities in **Software Development**
 
