@@ -1,6 +1,6 @@
 <img src="https://github.com/agrani1010/images/blob/master/WhatsApp%20Image%202022-07-02%20at%204.54.51%20PM.jpeg" width="1300" alt="agrani1010" />
 <h1 align="center">Hi 👋, I'm Agrani Patel <img height= "29" src="https://github.com/agrani1010/images/blob/master/front-facing-baby-chick-emoji-by-google.png" alt="agrani1010" /> </h1>
-<h3 align="center">A B.Tech grad who just stepped into the corporate world.</h3>
+<h3 align="center">Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrani1010&label=Profile%20views&color=0e75b6&style=flat" alt="agrani1010" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Development**
@@ -13,9 +13,6 @@
 
 - 🌱 Awards and Recognition **WeTech Goldman Sachs Scholar 2021 and Cummins Scholar 2021**
 
-- 📄 Know about my experiences [http://lnkiy.in/here_is_my_Resume](http://lnkiy.in/here_is_my_Resume)
-
-- ⚡ Fun fact **I can cook food but not tasty food :(**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="background-color:pink;">
